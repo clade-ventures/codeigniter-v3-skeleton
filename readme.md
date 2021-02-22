@@ -1,6 +1,11 @@
 # CodeIgniter + Web Components + StoryBook + PHPUnit
 This Project include unit testing with PHPUnit and atomic design structure with web component and storybook
 
+## Software Requirement
+1. Server (ex: XAMPP) 
+2. NPM (download)[https://nodejs.org/en/download/]
+3. Composer (download)[https://getcomposer.org/download/]
+
 ## Setup Project
 To setup this project, we need to install 2 part:
 1. Install PHP Dependecies

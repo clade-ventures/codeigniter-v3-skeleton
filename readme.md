@@ -15,39 +15,39 @@ This project have 2 web, the main and component documentation:
 
 ## Project Structure
 
-|-- application (CodeIgniter folder)
-|-- system (CodeIgniter folder)
-|-- .storybook
-	|-- Introduction.stories.mdx (storybook homepage)
-	|-- main.js (define stories and addons)
-	|-- preview-head.html (define something to tag head, ex: atomic css)
-	|-- preview.js (option, ex: disable some column in control tab)
-|-- assets
-	|-- css
-		|-- atomic-css
-			|-- index.css (load all atomic css)
-			|-- typography.style.css
-		|-- index.xss (load all css)
-	|-- fonts
-	|-- images
-	|-- js
-	|-- storybook (storybook homepage asset)
-|-- script
-  |-- index.js (import components/index.js)
-	|-- api
-	|-- constants
-	|-- helpers
-	|-- components
-		|-- atoms
-			|-- index.js (import all atoms)
-			|-- typography
-				|-- typography.js (custom element/web component)
-				|-- typography.const.js (local constants)
-				|-- typography.stories.js (component documentation)
-		|-- molecules
-		|-- organisms
-		|-- templates
-		|-- index.js (load each index.js in atoms/molecules/organims/templates)
+	|-- application (CodeIgniter folder)
+	|-- system (CodeIgniter folder)
+	|-- .storybook
+		|-- Introduction.stories.mdx (storybook homepage)
+		|-- main.js (define stories and addons)
+		|-- preview-head.html (define something to tag head, ex: atomic css)
+		|-- preview.js (option, ex: disable some column in control tab)
+	|-- assets
+		|-- css
+			|-- atomic-css
+				|-- index.css (load all atomic css)
+				|-- typography.style.css
+			|-- index.xss (load all css)
+		|-- fonts
+		|-- images
+		|-- js
+		|-- storybook (storybook homepage asset)
+	|-- script
+		|-- index.js (import components/index.js)
+		|-- api
+		|-- constants
+		|-- helpers
+		|-- components
+			|-- atoms
+				|-- index.js (import all atoms)
+				|-- typography
+					|-- typography.js (custom element/web component)
+					|-- typography.const.js (local constants)
+					|-- typography.stories.js (component documentation)
+			|-- molecules
+			|-- organisms
+			|-- templates
+			|-- index.js (load each index.js in atoms/molecules/organims/templates)
 				
 
 ## Common Issues

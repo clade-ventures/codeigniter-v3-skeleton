@@ -1,0 +1,18 @@
+@import './typography.style.css';
+
+:root {
+  --black: #0A0B2D;
+  --white: #F9F9FC;
+	--gray: #E9ECEF;
+	--yellow1: #F3BA49;
+	--yellow2: #EDB68D;
+	--yellow3: #F7E295;
+	--night1: #1F3DBD;
+	--night2: #3369DD;
+	--night3: #5B7AE3;
+	--blue1: #6BB3DD;
+	--blue2: #AAC6F8;
+	--pink: #E64D7B;
+	--green1: #7BDF9D;
+	--green2: #64C6B7;
+};

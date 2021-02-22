@@ -12,3 +12,9 @@ To setup this project, we need to install 2 part:
 This project have 2 web, the main and component documentation:
 - To run the main web, we need to run the server in local (XAMPP)
 - To run the component documentation, we can write this command to terminal `yarn run storybook`
+
+## Project Structure
+
+## Common Issues
+We can read this, if we found some issue (update this when we found some issue)
+1. Error when installing storybook dependecy. \n Make sure we use NPM 6.x.x LTS

@@ -1,4 +1,4 @@
-# CodeIgniter Skeleton Project
+# CodeIgniter + Web Components + StoryBook + PHPUnit
 This Project include unit testing with PHPUnit and atomic design structure with web component and storybook
 
 ## Setup Project
